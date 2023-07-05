@@ -1,0 +1,12 @@
+{
+  "name": "chat-center",
+  "version": "1.0.0",
+  "description": "聊天机器人",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
